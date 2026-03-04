@@ -1,0 +1,1 @@
+https://devilx-api.vercel.app/api/config
