@@ -1,1 +1,1 @@
-https://devilx-api.vercel.app/api/config
+https://tiny10-backend.vercel.app/api/config
